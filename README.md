@@ -44,6 +44,7 @@ The project utilizes the **Telecom Customer Churn Dataset** from Kaggle, which i
 
 ## Results
 - **Random Forest achieved an accuracy of ~79.7%** with an ROC AUC of 84%.
+- **Logistic Regression achieved an accuracy of ~81.5%** with an ROC AUC of 86%.
 - **Logistic Regression performed better in precision and recall** but had limitations in capturing complex relationships.
 - **Feature Importance Analysis** revealed that **monthly charges, tenure, and total charges** significantly influence churn probability.
 
